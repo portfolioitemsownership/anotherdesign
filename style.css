@@ -1,0 +1,188 @@
+body{
+
+
+
+font-family:Georgia,"Times New Roman",Times,serif;
+background:#000;
+}
+#clear{
+
+
+width:100%;
+clear:both;
+}
+#wrapper{
+
+height:auto;
+width:900px;
+margin:0 auto;
+margin-top:50px;
+}
+#header{
+
+height:50px;
+width:100%;
+background:#E57C00;
+border-radius:10px 10px 0px 0px;
+}
+#menu ul{
+
+margin:0px;
+}
+#menu ul li{
+background:url(images/img06.gif) no-repeat;
+text-align:left;
+display:inline;
+list-style:none;
+}
+#menu ul li a{
+
+display:inline-block;
+text-decoration:none;
+color:#fff;
+padding:10px 20px;
+}
+#menu ul li a:hover{
+
+
+color:#B31D1F;
+}
+input[name='sss']{
+
+
+height:40px;
+color:green;
+background:#94DA32;
+border-radius:16px;
+}
+input[name='ss']{
+
+height:40px;
+background:#DC4548;
+width:200px;
+border-radius:16px;
+}
+#slider{
+
+background:#74CEE9;
+height:auto;
+width:100%;
+}
+#content{
+
+
+height:auto;
+width:100%;
+}
+#left{
+
+float:left;
+height:auto;
+width:300px;
+}
+#right{
+
+
+
+float:right;
+
+height:auto;
+width:600px;
+}
+#color{
+
+height:50px;
+width:280px;
+background:#ED701F;
+margin-top:20px;
+border-radius:10px;
+}
+#color img{
+
+float:left;
+padding:10px;
+}
+#color h4{
+
+color:#440F0A;
+float:left;
+margin-top:10px;
+}
+#left p{padding:10px;
+color:#508500;border:4px dotted red;background:#42110C;opacity:0.5;}
+#menu2{
+
+
+float:left;
+margin-left:-40px;
+margin-top:10px;
+}
+#menu2 ul{
+
+margin:0px;
+}
+#menu2 ul li{
+
+list-style:none;
+}
+#menu2 ul li a{
+
+border-bottom:2px dashed#fff;
+text-decoration:none;
+color:#440E09;
+}
+#color:hover{
+
+
+background:#C4C78E;
+}
+#left p:hover{
+
+background:#4184F3;
+}
+#color2{
+
+height:45px;
+width:100%;
+background:#E57C00;
+margin-top:20px;
+border-radius:10px;
+}
+#color2 img{
+
+float:left;
+padding:10px;
+}
+#color2 h3{
+
+color:#fff;
+margin-top:10px;
+padding:0px;
+float:left;
+}
+#color2 h5{
+margin-top:10px;
+padding:0px;
+float:right;
+font-family:Georgia,"Times New Roman",Times,serif;
+margin-right:100px;
+color:#4B110D;
+}
+#right p{
+font-family:Georgia,"Times New Roman",Times,serif;;
+color:#fff;
+padding:6px;
+
+}
+#final{
+
+
+height:100px;
+width:100%;
+background:#DF6300;
+border-radius:0px 0px 60px 60px;
+}
+#final h2{
+font-family:Georgia,"Times New Roman",Times,serif;;
+margin-top:45px;
+}
